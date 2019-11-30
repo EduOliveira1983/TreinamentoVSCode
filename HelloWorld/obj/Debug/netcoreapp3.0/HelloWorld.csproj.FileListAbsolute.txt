@@ -1,0 +1,11 @@
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.exe
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.deps.json
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.json
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.dev.json
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.dll
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.pdb
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.csprojAssemblyReference.cache
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfo.cs
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.dll
+C:\Eduardo\repos\TreinamentoVSCode\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.pdb
